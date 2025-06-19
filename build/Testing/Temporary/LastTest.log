@@ -1,0 +1,24 @@
+Start testing: Jun 19 07:15 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/1 Testing: run_doctest
+1/1 Test: run_doctest
+Command: "C:/Users/Asus/OneDrive/Desktop/AIP/build/doctest.exe"
+Directory: C:/Users/Asus/OneDrive/Desktop/AIP/build
+"run_doctest" start time: Jun 19 07:15 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.12"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 33 | 33 passed | 0 failed | 0 skipped
+[doctest] assertions: 39 | 39 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"run_doctest" end time: Jun 19 07:15 RTZ 2 (çèìà)
+"run_doctest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 19 07:15 RTZ 2 (çèìà)
